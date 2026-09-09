@@ -7,6 +7,6 @@ title: Home
 Welcome to my site. I like maths.
 
 ## About me
-
+[About me](/about/)
 A paragraph here.
 
