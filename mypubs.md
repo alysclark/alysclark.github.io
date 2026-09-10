@@ -217,3 +217,9 @@ permalink: /mypubs/
 
 1. **Clark, A. R.**, Stokes, Y. M., Lane, M., Thompson, J. G. Mathematical modelling of oxygen concentration in bovine and murine cumulus-oocyte complexes. Reproduction. **2006**. 131:999-1006. [Web link](https://doi.org/10.1530/rep.1.00974)
 
+# Physiome journal articles
+
+1. Means, S. A., **Clark, A., R.**, Cheng, L. K. Steady-state Approximations for Hodgkin-Huxley Cell Models: Towards Multi-scale Models of Uterine Smooth Muscle. **2023**. [Web link](https://doi.org/10.36903/physiome.24439204)
+
+1. Athavale, O. N., Cheng, L. K., **Clark, A. R.**, Avci, R., Du, P. Reproducibility of a mathematical model of the neural regulation of phasic contractions and slow waves in the distal stomach [Web link](https://doi.org/10.36903/physiome.28379192)
+
