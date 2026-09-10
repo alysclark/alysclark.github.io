@@ -5,4 +5,5 @@ permalink: /about/
 
 # About Me
 
-Bio goes here.
+
+Bio to come
