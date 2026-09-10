@@ -5,14 +5,15 @@ permalink: /mypubs/
 
 # My Journal Articles
 
-1.	Wijenayaka, S., Trew, M., Clark, A. R., Avci, R., Cheng, L. K., Du, P.  Continously‐resolved 3D Organisation of Rat Stomach Musculature. Journal of Morphology. 2026. In Press.
+1. Wijenayaka, S., Trew, M., Clark, A. R., Avci, R., Cheng, L. K., Du, P.  Continously‐resolved 3D Organisation of Rat Stomach Musculature. Journal of Morphology. 2026. In Press.
 
-2.	Jayatissa, S., James, J. L., Clark, A. R. Biomechanical modelling of the feto-placental and utero-placental circulations: where to from here? Placenta. 2026. In Press. 
+1. Jayatissa, S., James, J. L., Clark, A. R. Biomechanical modelling of the feto-placental and utero-placental circulations: where to from here? Placenta. 2026. In Press. 
 
 3.	Yang, Y., Bradley, C. P., Zhang, X., Clark, A., Gao, M., Li, G., Yang, L., Monfort-Ortiz, R., Meng, Y., Hao, D., Ye-Lin, Y. A multiscale PBPK-PD model of oxytocin-induced uterine excitation and contraction. Journal of Physiology. 2026. In Press.
 
-4.	Lee, T.-C., Gamage, T. K. J. B., Spring, M., Ramanlal, I., Jackson, T., Clark, A. R., James, J. L. Multi-scale computational models of intervillous blood flow in fetal growth restriction: implications of anatomical changes on syncytiotrophoblast shear stress. Placenta. 2026. 182: 330-340, [Web link](https://doi.org/10.1016/j.placenta.2026.07.007
-5.	Miller, J., Mills, N., Chan, F., Clark, A. R., Mirjalili, S. A. Anatomy of the soft palate and its role in upper airway function: a narrative review. Journal of Clinical Anatomy. 2026. 1-15, [Web link](https://doi.org/10.1002/ca.70183)
+1. Lee, T.-C., Gamage, T. K. J. B., Spring, M., Ramanlal, I., Jackson, T., Clark, A. R., James, J. L. Multi-scale computational models of intervillous blood flow in fetal growth restriction: implications of anatomical changes on syncytiotrophoblast shear stress. Placenta. 2026. 182: 330-340, [Web link](https://doi.org/10.1016/j.placenta.2026.07.007)
+
+1. Miller, J., Mills, N., Chan, F., Clark, A. R., Mirjalili, S. A. Anatomy of the soft palate and its role in upper airway function: a narrative review. Journal of Clinical Anatomy. 2026. 1-15, [Web link](https://doi.org/10.1002/ca.70183)
 
 6.	Spring, M., Clark, A. R., Poologasundarampillai, G., Darrow, M. C., James, J. L. Ex vivo human placental imaging: navigating modalities, scales, and analysis approaches to obtain fit-for-purpose data. Placenta. 2026. In Press. [Web link](https://doi.org/10.1016/j.placenta.2026.03.001)
 
