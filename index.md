@@ -20,5 +20,5 @@ Our lungs take over from the placenta in supplying us with oxygen when we are bo
 
 ## Links
 [About me](/about/)
-F
+
 [My publications](/mypubs)
