@@ -19,6 +19,5 @@ Smooth muscle organs exhibit rhythmic electrical activity that helps to coordina
 Our lungs take over from the placenta in supplying us with oxygen when we are born. I have a particular interest in how our respiratory system develops and later remodels in response to disease. I have conducted research, and supervised students in a diverse range of projects related to respiratory health, and has particular research interests in vascular pathology in the lungs, and ventilation strategies to assist patients with lung disease.
 
 ## Links
-[About me](/about/)
 
 [My publications](/mypubs)
