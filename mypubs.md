@@ -5,6 +5,8 @@ permalink: /mypubs/
 
 # My Journal Articles
 
+1. 1.	Hussan, J. R., Means, S. A., Hunter, P. J., **Clark, A. R.** A Computational Functional Tissue Unit of the Human Myometrium for In Silico Study of Gestational Excitability and Pathophysiology. Journal of the Royal Society Interface. **2026**. In press.
+
 1. Wijenayaka, S., Trew, M., **Clark, A. R.**, Avci, R., Cheng, L. K., Du, P.  Continously‐resolved 3D Organisation of Rat Stomach Musculature. Journal of Morphology. **2026**. In Press.
 
 1. Jayatissa, S., James, J. L., **Clark, A. R.** Biomechanical modelling of the feto-placental and utero-placental circulations: where to from here? Placenta. **2026**. In Press. 
