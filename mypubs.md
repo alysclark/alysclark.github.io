@@ -1,4 +1,4 @@
----
+   fo---
 title: My Publications
 permalink: /mypubs/
 ---
@@ -128,8 +128,6 @@ permalink: /mypubs/
 1. **Clark, A. R.**, Burrowes, K. S., Tawhai, M. H. Integrative computational models of lung structure-function interactions. Comprehensive Physiology. **2021**. 11:1501-1530. as [Web link](https://doi.org/10.1002/cphy.c20001)
  
 1. Burrowes, K. S., Kumar, H., **Clark, A. R.**, de Wolff, T., Tawhai, M. H. Bridging the gap between respiratory research and health literacy: an interactive web-based platform. BMJ Simulation and Technology Enhanced Learning. **2020**. 7(3):163. [Web link](https://doi.org/10.1136/bmjstel-2020-000678)
-
-1. Osanlouy, M., **Clark, A. R.**, Kumar, H., King, C., Wilsher, M. L., Milne, D. G., Whyte, K., Hoffman, E. A., Tawhai, M. H. Lung and fissure shape is associated with age in healthy never-smoking adults aged 20-90 years. Scientific Reports. **2020**. 10(1):1-13. [Web link](https://doi.org/10.1038/s41598-020-73117-w)
 
 1. **Clark, A. R.**, Lee, T. C., James, J. L. Computational modelling of the interactions between the maternal and fetal circulations in human pregnancy. WIREs Systems Biology and Medicine. **2020**. 13(1):e1502. [Web link](https://doi.org/10.1002/wsbm.1502)
 
